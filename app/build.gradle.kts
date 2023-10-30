@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "edu.uw.ischool.annietu8.tipcalc"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "edu.uw.ischool.annietu8.tipcalc"
